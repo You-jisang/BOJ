@@ -1,4 +1,4 @@
-package boj_problem;
+package boj_problem.bronze5;
 
 import java.util.*;
 public class boj_3003 {
