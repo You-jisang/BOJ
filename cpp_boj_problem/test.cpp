@@ -10,6 +10,6 @@ int main(int argc, char const *argv[]) {
     cin >> A;
     cin >> B;
  
-    cout << A + B;
+    cout << A - B;
     return 0;
 }
